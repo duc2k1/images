@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/kuromaku.jpg"  ]
+[preload  storage="./data/fgimage/default/7/07.jpg"  ]
+[preload  storage="./data/fgimage/default/7/07'.jpg"  ]
+[preload  storage="./data/fgimage/default/7/07''.jpg"  ]
+[preload  storage="./data/fgimage/default/7/07'''.jpg"  ]
+[preload  storage="./data/fgimage/default/7/07''''.jpg"  ]
+[preload  storage="./data/fgimage/default/7/07'''''.jpg"  ]
+[return  ]
